@@ -1,0 +1,18 @@
+{
+  "global-agents-marketplace": {
+    "source": {
+      "source": "git",
+      "url": "https://git.ib-ci.com/scm/AM/global-agents-marketplace.git"
+    },
+    "installLocation": "/Users/mvalencia/.claude/plugins/marketplaces/global-agents-marketplace",
+    "lastUpdated": "2026-03-23T09:57:16.256Z"
+  },
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/mvalencia/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-04-22T19:19:29.141Z"
+  }
+}

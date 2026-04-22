@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Private conversation history
+history.jsonl
+
+# Ephemeral / machine-specific directories
+cache/
+sessions/
+session-env/
+shell-snapshots/
+debug/
+file-history/
+paste-cache/
+tasks/
+todos/
+ide/
+downloads/
+backups/
+
+# Machine-specific settings
+settings.local.json
+
+# Downloaded marketplace data (managed by Claude Code, not user config)
+plugins/marketplaces/
+
+# Session conversation files inside projects/
+projects/**/*.jsonl
+
+# Session plan/data directories (UUID-named)
+projects/*/????????-????-????-????-????????????/
+
+# Keep memory directories
+!projects/*/memory/
+!projects/*/memory/**

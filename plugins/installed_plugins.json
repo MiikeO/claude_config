@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "plugins": {
+    "vibe-coding@global-agents-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "/Users/mvalencia/.claude/plugins/cache/global-agents-marketplace/vibe-coding/0.2.0",
+        "version": "0.2.0",
+        "installedAt": "2026-03-23T09:57:16.420Z",
+        "lastUpdated": "2026-03-23T09:57:16.420Z",
+        "gitCommitSha": "a415193d9de9fd672e162a07f6f8a2d434907868"
+      }
+    ],
+    "clangd-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/mvalencia/.claude/plugins/cache/claude-plugins-official/clangd-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-13T21:52:42.272Z",
+        "lastUpdated": "2026-04-13T21:52:42.272Z"
+      }
+    ]
+  }
+}
